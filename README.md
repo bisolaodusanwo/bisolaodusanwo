@@ -8,9 +8,12 @@ I'm a **Full Stack Engineer** from Lagos, Nigeria. I have experience building re
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, WordPress, GitHub, Wakatime
 
-## 🔭 Current Projects:
+## 🔭 Projects:
 - **[Pretty Gal E-commerce](https://github.com/bisolaodusanwo/pretty-gal-ecommerce)**: An online e-commerce platform built with TailwindCSS.
 - **[Travel Website](https://github.com/bisolaodusanwo/travel-website-tailwind)**: A responsive travel website using TailwindCSS.
+- **[ImagePortal Frontend](https://github.com/bisolaodusanwo/ImagePortal-frontend)**: A platform to upload and manage images.
+- **[School App](https://github.com/bisolaodusanwo/School-App)**: A management system for schools.
+- **[Ecommerce Backend](https://github.com/bisolaodusanwo/Ecommerce-Backend)**: Backend services for an e-commerce application using Node.js.
 
 ## 🌱 What I'm Learning:
 - Advanced API development with **Node.js**
