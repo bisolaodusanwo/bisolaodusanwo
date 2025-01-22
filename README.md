@@ -1,10 +1,10 @@
 # Hi, I'm Bisola Odusanwo! 👋
 
-I'm a **Full Stack Engineer** from Lagos, Nigeria. I have experience building responsive websites and scalable applications using a variety of technologies.
+I'm a **Software Engineer** from Lagos, Nigeria. I have experience building responsive websites and scalable applications using a variety of technologies.
 
 ## 🚀 Skills & Technologies:
-- **Languages**: JavaScript, HTML, CSS, TypeScript
-- **Frameworks & Libraries**: React, Node.js, TailwindCSS, Bootstrap
+- **Languages**: JavaScript, TypeScript
+- **Frameworks & Libraries**: Node.js, Express.Js, OOP,NestJs, 
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Git, WordPress, GitHub, Wakatime
 
